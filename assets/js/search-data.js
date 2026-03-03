@@ -525,7 +525,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/www.linkedin.com/in/tenzin-jigme-choephel", "_blank");
+          window.open("https://www.linkedin.com/in/tenzin-jigme-choephel", "_blank");
         },
       },{
         id: 'social-github',
